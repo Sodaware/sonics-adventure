@@ -1,0 +1,66 @@
+* Sonic's Adventure
+
+** About
+
+This is the first game I ever wrote by myself. It's a text adventure
+starring Sonic the Hedgehog. Prepare for the following *amazing*
+features:
+
+  - 100 areas to explore
+  - Fight badniks
+  - Solve some really easy puzzles
+  - Read amazing descriptions and dialog
+
+Here's a screenshot in case you're really interested:
+
+[[http://www.sodaware.net/rsc/images/sonics-adventure.png]]
+
+
+** Why?
+
+The source is *extremely* scrappy, and the game itself isn't exactly
+great, but it's fun to see just how far I've come as a
+developer. People often try and protect their less-than-perfect side,
+so this is me showing mine off for everyone to see.
+
+
+** Compiling
+
+Sonic's Adventure is written in Power Basic for the Atari ST. It
+should compile as-is, but it's been a while since I fired it up.
+
+
+** Copyright
+
+This project is in no way endorsed by Sega or anyone else with any
+connection to Sonic the Hedgehog. 
+
+
+** Licence
+
+Copyright (c) 1993-2012 Phil Newton
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+ 
+    1. Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+     
+    2. Redistributions in binary form must reproduce the above
+       copyright notice, this list of conditions and the following
+       disclaimer in the documentation and/or other materials provided
+       with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
