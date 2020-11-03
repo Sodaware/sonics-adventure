@@ -13,7 +13,7 @@ features:
 
 Here's a screenshot in case you're really interested:
 
-[[http://www.sodaware.net/rsc/images/sonics-adventure.png]]
+[[https://www.sodaware.net/assets/images/projects/sonics-adventure.png]]
 
 
 ** Why?
